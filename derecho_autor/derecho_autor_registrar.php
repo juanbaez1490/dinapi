@@ -82,7 +82,7 @@
       >
         <i class="fas fa-angle-up fa-5x mr-5"></i>
       </a>
-      <div class="float-left information-header" id="head">
+      <div class="float-left information-header" id="head_derechoautor">
         
 
 
@@ -96,7 +96,7 @@
 
 
         <div class="float-left" id="main-image">
-          <img src="../img/logo.png" class="col-md-6 col-sm-12" id="img1" />
+          <!--img src="../img/logo.png" class="col-md-6 col-sm-12" id="img1" /-->
         </div>
       </div>
       <div
@@ -109,16 +109,11 @@
         </div>
         <div class="row">
           <div class="col-md-3 sidebar-links mt-5">
-            <h1>Marcas</h1>
+            <h1>Derechos de Autor</h1>
             <div class="lista">
               <ul>
                 <li class="li-principal">BUSCAR E INVESTIGAR</li>
-                <li class="li-principal"><a href="marcas_aprender.php" class="menu_lateral">APRENDER</a></li>
-                <li class="li-secundario">Qué es una marca</li>
-                <li class="li-secundario">Derechos</li>
-                <li class="li-secundario">Casos Exitosos</li>
-                <li class="li-secundario">Ley de Marcas</li>
-                <li class="li-principal"><a href="marcas_registrar.php" class="menu_lateral">REGISTRAR</a></li>
+                <li class="li-principal"><a href="#" class="menu_lateral">REGISTRAR</a></li>
                 <li class="li-principal">SEGUIR</li>
               </ul>
             </div>

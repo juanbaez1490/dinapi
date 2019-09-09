@@ -14347,6 +14347,13 @@ p.box-title::before {
   background-image: url("../img/gestionesadministrativas_interior.jpg");
   background-size: cover; }
 
+#head_marcas {
+  z-index: 4;
+  display: flex;
+  flex-direction: column;
+  background-image: url("../img/marcas_interior.jpg");
+  background-size: cover; }
+
 #platform {
   z-index: 3; }
 
@@ -14822,9 +14829,6 @@ a.menu_lateral:hover{
   background-image: url("../img/dautor2.jpg");
 }
 
-.head_dibujos{
-  background-image: url("../img/dibujos.jpg");
-}
 
 .head_marcas{
   background-image: url("../img/marcas.jpg");
@@ -14838,8 +14842,45 @@ a.menu_lateral:hover{
   background-image: url("../img/igydo.jpg");
 }
 
-.head_patentes{
+#head_patentes {
+  z-index: 4;
+  display: flex;
+  flex-direction: column;
   background-image: url("../img/patente.jpg");
+  background-size: cover; }
+
+#head_igydo {
+  z-index: 4;
+  display: flex;
+  flex-direction: column;
+  background-image: url("../img/igydo_interior.jpg");
+  background-size: cover; }
+
+#head_observancia {
+  z-index: 4;
+  display: flex;
+  flex-direction: column;
+  background-image: url("../img/observancia_interior.jpg");
+  background-size: cover; }
+
+#head_derechoautor {
+  z-index: 4;
+  display: flex;
+  flex-direction: column;
+  background-image: url("../img/derechoautor_interior.jpg");
+  background-size: cover; }
+
+
+
+#head_dibujos {
+  z-index: 4;
+  display: flex;
+  flex-direction: column;
+  background-image: url("../img/dibujos_interior.jpg");
+  background-size: cover; }
+
+.head_dibujos{
+  background-image: url("../img/dibujos.jpg");
 }
 
 .head_gestionesadministrativas{

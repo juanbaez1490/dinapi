@@ -94,7 +94,7 @@
 
 
         <div class="float-left" id="main-image">
-          <img src="../img/logo.png" class="col-md-6 col-sm-12" id="img1" />
+          <!--img src="../img/logo.png" class="col-md-6 col-sm-12" id="img1" /-->
         </div>
         <div class="header-secondary-image"></div>
         <div id="main-message">
@@ -117,9 +117,9 @@
               </div>
               <figcaption>
                 <p>
-                  Este es el texto que describe el bloque Buscar e Investigar.
+                  
                 </p>
-                <a href="#">Vea más</a>
+                <a href="conocer.php">Vea más</a>
               </figcaption>
             </figure>
           </div>
@@ -145,9 +145,9 @@
               </div>
               <figcaption>
                 <p>
-                  Este es el texto que describe el bloque Proteger.
+                  
                 </p>
-                <a href="#">Vea más</a>
+                <a href="areas.php">Vea más</a>
               </figcaption>
             </figure>
           </div>
@@ -159,8 +159,10 @@
                 <div class="texto-eje h2">Denunciar</div>
               </div>
               <figcaption>
-                <p>Este es el texto que describe el bloque Seguir.</p>
-                <a href="#">Vea más</a>
+                <p>
+
+                </p>
+                <a href="denunciar.php">Vea más</a>
               </figcaption>
             </figure>
           </div>

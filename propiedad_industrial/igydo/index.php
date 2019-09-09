@@ -117,7 +117,7 @@
               </div>
               <figcaption>
                 <p>
-                  Este es el texto que describe el bloque Buscar e Investigar.
+                  
                 </p>
                 <a href="#">Vea más</a>
               </figcaption>
@@ -131,8 +131,10 @@
                 <div class="texto-eje h2">Aprender</div>
               </div>
               <figcaption>
-                <p>Este es el texto que describe el bloque Aprender.</p>
-                <a href="#">Vea más</a>
+                <p>
+                  
+                </p>
+                <a href="igydo_aprender.php">Vea más</a>
               </figcaption>
             </figure>
           </div>
@@ -145,9 +147,9 @@
               </div>
               <figcaption>
                 <p>
-                  Este es el texto que describe el bloque Proteger.
+                  
                 </p>
-                <a href="#">Vea más</a>
+                <a href="igydo_registrar.php">Vea más</a>
               </figcaption>
             </figure>
           </div>
@@ -159,7 +161,9 @@
                 <div class="texto-eje h2">Seguimiento</div>
               </div>
               <figcaption>
-                <p>Este es el texto que describe el bloque Seguir.</p>
+                <p>
+
+                </p>
                 <a href="#">Vea más</a>
               </figcaption>
             </figure>

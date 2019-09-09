@@ -118,7 +118,7 @@
                 <p>
                   Ingrese aquí para buscar Marcas existentes o hacer seguimiento a sus trámites
                 </p>
-                <a href="#">Vea más</a>
+                <a href="https://servicios.dinapi.gov.py/">Vea más</a>
               </figcaption>
             </figure>
           </div>
@@ -130,7 +130,8 @@
                 <div class="texto-eje h2">Aprender</div>
               </div>
               <figcaption>
-                <p>Este es el texto que describe el bloque Aprender.</p>
+                <p>
+                </p>
                 <a href="#">Vea más</a>
               </figcaption>
             </figure>
@@ -144,9 +145,9 @@
               </div>
               <figcaption>
                 <p>
-                  Este es el texto que describe el bloque Proteger.
+                  
                 </p>
-                <a href="#">Vea más</a>
+                <a href="marcas_registrar.php">Vea más</a>
               </figcaption>
             </figure>
           </div>
@@ -158,8 +159,9 @@
                 <div class="texto-eje h2">Seguimiento</div>
               </div>
               <figcaption>
-                <p>Este es el texto que describe el bloque Seguir.</p>
-                <a href="#">Vea más</a>
+                <p>
+                </p>
+                <a href="https://servicios.dinapi.gov.py/">Vea más</a>
               </figcaption>
             </figure>
           </div>

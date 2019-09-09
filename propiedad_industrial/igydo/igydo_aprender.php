@@ -80,7 +80,7 @@
       >
         <i class="fas fa-angle-up fa-5x mr-5"></i>
       </a>
-      <div class="float-left information-header" id="head">
+      <div class="float-left information-header" id="head_igydo">
         
 
         <?php 
@@ -91,7 +91,7 @@
         ?>
 
         <div class="float-left" id="main-image">
-          <img src="../../img/logo.png" class="col-md-6 col-sm-12" id="img1" />
+          <!--img src="../../img/logo.png" class="col-md-6 col-sm-12" id="img1" /-->
         </div>
       </div>
       <div
