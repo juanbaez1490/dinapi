@@ -13833,7 +13833,7 @@ ul {
 
 #main-message {
   font-family: "Open Sans", Helvetica, sans-serif;
-  font-size: 1.4rem;
+  font-size: 2rem;
   text-shadow: 1px 1px 15px black;
   display: flex;
   flex-direction: column;
@@ -14337,7 +14337,14 @@ p.box-title::before {
   z-index: 4;
   display: flex;
   flex-direction: column;
-  background-image: url("../img/slide1_bk.jpg");
+  background-image: url("../img/bk_institucional3.jpg");
+  background-size: cover; }
+
+#head_gestionesadministrativas {
+  z-index: 4;
+  display: flex;
+  flex-direction: column;
+  background-image: url("../img/gestionesadministrativas_interior.jpg");
   background-size: cover; }
 
 #platform {
@@ -14833,6 +14840,10 @@ a.menu_lateral:hover{
 
 .head_patentes{
   background-image: url("../img/patente.jpg");
+}
+
+.head_gestionesadministrativas{
+  background-image: url("../img/gestionesadministrativas.jpg");
 }
 
 

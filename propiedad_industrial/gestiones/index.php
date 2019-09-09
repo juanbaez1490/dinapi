@@ -82,7 +82,7 @@
       >
         <i class="fas fa-angle-up fa-5x mr-5"></i>
       </a>
-      <div class="float-left secondary-header head head_observancia">
+      <div class="float-left secondary-header head head_gestionesadministrativas">
         
 
         <?php 
@@ -94,12 +94,12 @@
 
 
         <div class="float-left" id="main-image">
-          <img src="../../img/logo.png" class="col-md-6 col-sm-12" id="img1" />
+          <!--img src="../../img/logo.png" class="col-md-6 col-sm-12" id="img1" /-->
         </div>
         <div class="header-secondary-image"></div>
         <div id="main-message">
           <p class="font-weight-bold w-100" v-bind:style="marginTops[0].resp">
-            Este es el texto que describe una página secundaria.
+            GESTIONES ADMINISTRATIVAS
           </p>
         </div>
       </div>
@@ -127,31 +127,32 @@
             <figure class="eje-box-inner effect-apollo" id="boxsup-2">
               <div class="icono-eje">
                 <span class="fas fa-file-signature"></span>
-                <div class="texto-eje h2">Gestión de Matrículas y Pin de Agentes de la Propiedad Industrial</div>
+                <div class="texto-eje h2">Gestión de Matrículas y PIN de Agentes de la Propiedad Industrial</div>
               </div>
               <figcaption>
                 <p>
-                  Este es el texto que describe el bloque Buscar e Investigar.
+                  ¿Cómo hago para registrarme como agente?
                 </p>
-                <a href="#">Vea más</a>
+                <a href="matriculas.php">Vea más</a>
               </figcaption>
             </figure>
           </div>
 
-          <div class="col-sm float-left eje-box-outer grid" onclick="location.href='marcas_aprender.php';">
+          <div class="col-sm float-left eje-box-outer grid" onclick="location.href='probono.php';">
             <figure class="eje-box-inner effect-apollo" id="boxsup-3">
               <div class="icono-eje">
                 <span class="far fa-lightbulb"></span>
                 <div class="texto-eje h2">Agentes de Propiedad Industrial PRO-BONO</div>
               </div>
               <figcaption>
-                <p>Este es el texto que describe el bloque Aprender.</p>
+                <p>
+                </p>
                 <a href="#">Vea más</a>
               </figcaption>
             </figure>
           </div>
 
-          <div class="col-sm float-left eje-box-outer grid" onclick="location.href='areas.php';">
+          <div class="col-sm float-left eje-box-outer grid" onclick="location.href='registro_poderes.php';">
             <figure class="eje-box-inner effect-apollo" id="boxsup-1">
               <div class="icono-eje">
                 <span class="fas fa-user-friends"></span>
@@ -159,35 +160,38 @@
               </div>
               <figcaption>
                 <p>
-                  Este es el texto que describe el bloque Proteger.
+                  ¿Cómo registrar un poder?
                 </p>
-                <a href="#">Vea más</a>
+                <a href="registro_poderes.php">Vea más</a>
               </figcaption>
             </figure>
           </div>
 
-          <div class="col-sm float-left eje-box-outer grid" onclick="location.href='denunciar.php';">
+          <div class="col-sm float-left eje-box-outer grid" onclick="location.href='actos.php';">
             <figure class="eje-box-inner effect-apollo" id="boxsup-4">
               <div class="icono-eje">
                 <span class="fas fa-user-friends"></span>
                 <div class="texto-eje h2">Actos Jurídicos</div>
               </div>
               <figcaption>
-                <p>Este es el texto que describe el bloque Seguir.</p>
-                <a href="#">Vea más</a>
+                <p>
+                    ¿Qué comprenden y cómo registrar los actos jurídicos?
+                </p>
+                <a href="actos.php">Vea más</a>
               </figcaption>
             </figure>
           </div>
 
-          <div class="col-sm float-left eje-box-outer grid" onclick="location.href='denunciar.php';">
+          <div class="col-sm float-left eje-box-outer grid" onclick="location.href='circulares.php';">
             <figure class="eje-box-inner effect-apollo" id="boxsup-2">
               <div class="icono-eje">
                 <span class="fas fa-user-friends"></span>
                 <div class="texto-eje h2">Circulares y Decisiones Administrativas</div>
               </div>
               <figcaption>
-                <p>Este es el texto que describe el bloque Seguir.</p>
-                <a href="#">Vea más</a>
+                <p>
+                </p>
+                <a href="circulares.php">Vea más</a>
               </figcaption>
             </figure>
           </div>
@@ -212,13 +216,13 @@
         id="noticias"
         v-bind:style=" heightsDivs[3] "
       >
-        <div class="col-lg-12 titulo-enlace row">
+        <!--div class="col-lg-12 titulo-enlace row">
           <h1 class="text-left">
             INFORMACIÓN RELEVANTE
           </h1>
-        </div>
+        </div-->
 
-        <div class="clearfix"></div>
+        <!--div class="clearfix"></div>
         <div class="row">
           <div class="articulos-secondary col-md-3 col-sm-12">
             <div class="articulos-secondary-content">
@@ -266,7 +270,7 @@
               </div>
             </div>
           </div>
-        </div>
+        </div-->
       </div>
       <!-- Fin Novedades -->
 

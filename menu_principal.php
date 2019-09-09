@@ -27,9 +27,14 @@
                   <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
                     <a class="dropdown-item" href="https://www.dinapi.gov.py/application/files/8414/9522/0935/PLAN_NACIONAL_DE_LA_PROPIEDAD_INTELECTUAL_PARAGUAY_2030web3_opt_opt.pdf">Plan Estratégico Institucional</a>
                     <a class="dropdown-item" href="https://www.dinapi.gov.py/index.php/download_file/force/5202/1416">Código de Ética DINAPI</a>
-                    <a class="dropdown-item" href="<?php echo $URL_Base; ?>propiedad_industrial/dibujos/index.php">Dibujos y Modelos Industriales</a>
-                    <a class="dropdown-item" href="<?php echo $URL_Base; ?>propiedad_industrial/igydo/index.php">IG&DO</a>
-                    <a class="dropdown-item" href="<?php echo $URL_Base; ?>propiedad_industrial/gestiones/index.php">Gestiones Administrativas</a>
+
+                    
+                    <a class="dropdown-item" href="<?php echo $URL_Base; ?>mision_vision_funciones.php">Misión, visión y Funciones</a>
+
+                    <a class="dropdown-item" href="https://www.dinapi.gov.py/application/files/9314/3290/5184/Inventario_de_Bienes.pdf">Inventario de Bienes</a>
+                  
+                    <a class="dropdown-item" href="https://www.dinapi.gov.py/index.php/download_file/view/3361/869">Manual de Funciones</a>
+                    
                   </div>
                 </li>
                 <li class="nav-item">
