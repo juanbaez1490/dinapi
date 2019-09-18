@@ -111,11 +111,11 @@
       >
         <div class="clearfix"></div>
         <div class="col-md-12 bread">
-          <div><a href="#">Inicio</a> / <a href="index.php">Derechos de Autor</a> / Registro</div>
+          <div><a href="#">Inicio</a> / <a href="index.php">Derechos de Autor y Derechos Conexos</a> / Registro</div>
         </div>
         <div class="row">
           <div class="col-md-3 sidebar-links mt-5">
-            <h1>Derechos de Autor</h1>
+            <h1>Derechos de Autor y Derechos Conexos</h1>
             <div class="lista">
               <!--ul>
                 <li class="li-principal">BUSCAR E INVESTIGAR</li>
@@ -134,10 +134,10 @@
               La obra está protegida desde el momento de su creación conforme lo establece el Convenio de Berna para la Protección de las Obras Literarias y Artísticas, del cual Paraguay es parte.
             </p>
             <p>
-              Sin embargo, su registro ante la Dirección General de Derecho de Autor y Derechos Conexos tiene a su cargo el Registro Nacional de Derecho de Autor, con el propósito de contar con un principio de prueba cierta de los hechos y actos que consten de él, además de servir de base de datos que aporta a fines estadísticos y a la promoción de la cultura.
+              Sin embargo, su registro ante la Dirección General de Derechos de Autor y Derechos Conexos tiene a su cargo el Registro Nacional de Derechos de Autor, con el propósito de contar con un principio de prueba cierta de los hechos y actos que consten de él, además de servir de base de datos que aporta a fines estadísticos y a la promoción de la cultura.
               </p>
             <p>
-              El registro también puede servir como prueba ante un Tribunal de Justicia en el caso de controversias relacionadas con el Derecho de Autor.
+              El registro también puede servir como prueba ante un Tribunal de Justicia en el caso de controversias relacionadas con el Derechos de Autor.
               </p>
             <p>
               El símbolo © a menudo se usa para indicar que una obra está protegida por el derecho de autor. A continuación del símbolo se incluye el nombre del propietario de los derechos de autor y el año en el que la obra fue creada. Por ejemplo, “© OMPI, 2007” indicaría una publicación de la OMPI producida en el año 2007. Como el símbolo © no es más que una indicación, no es necesario insertarlo en las obras para que éstas estén protegidas. Aunque una obra no lleve el símbolo ©, puede estar protegida por el derecho de autor.

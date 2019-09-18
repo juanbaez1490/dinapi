@@ -1,6 +1,10 @@
 <!DOCTYPE html>
 <html lang="es" class="clear-section">
   <head>
+    <link href="https://fonts.googleapis.com/css?family=Fira+Sans&display=swap" rel="stylesheet">
+
+    <link href="https://fonts.googleapis.com/css?family=Ubuntu&display=swap" rel="stylesheet">
+    
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="maximum-scale=2.0" />
@@ -75,6 +79,11 @@
   </head>
   <body>
     <div id="app" class="clear-section">
+
+      <header>
+        <img src="<?php echo $URL_Base; ?>img/logo.png" class="center-block col-md-2 mb-2 mt-2">
+      </header>
+
       <a
         href="#head"
         v-bind:class=" 'navigate ' + (section == 'head' ? 'notShow' : 'show')"
@@ -82,7 +91,7 @@
       >
         <i class="fas fa-angle-up fa-5x mr-5"></i>
       </a>
-      <div class="float-left secondary-header head head_observancia">
+      <div class="float-left secondary-header head2 head_observancia">
         
 
         <?php 
@@ -93,55 +102,43 @@
         ?>
 
 
-        <div class="float-left" id="main-image">
-          <!--img src="../img/logo.png" class="col-md-6 col-sm-12" id="img1" /-->
-        </div>
         <div class="header-secondary-image"></div>
-        <div id="main-message">
-          <p class="font-weight-bold w-100" v-bind:style="marginTops[0].resp">
-            OBSERVANCIA
-          </p>
+        <div class="titulo-pagina-principal ml-5 mt-2 pl-2 pr-5 col-md-4">
+          <div class="font-weight-bold">
+            Observancia
+          </div>
         </div>
+
       </div>
       <div
-        class="col-md-10 offset-md-2 clear-section float-left pt-5 "
+        class="col-md-12 clear-section float-left pt-5 "
         id="secondary-container"
       >
         <div class="clearfix"></div>
         <div class="row">
-          <div class="col-md-3 col-12 float-left eje-box-outer grid" onclick="location.href='conocer.php';">
-            <figure class="eje-box-inner effect-apollo" id="boxsup-2">
+
+
+          <div class="col-md-4 col-12 float-left eje-box-outer grid">
+            <figure class="eje-box-inner effect-apollo tarjeta_fondo" id="boxsup-3">
               <div class="icono-eje">
-                <span class="fas fa-file-signature"></span>
-                <div class="texto-eje h2">Conocer</div>
+                <span class="far fa-lightbulb"></span>
+                <div class="texto-eje h2">
+                  Información Relevante
+                </div>
               </div>
               <figcaption>
                 <p>
-                  
                 </p>
                 <a href="conocer.php">Vea más</a>
               </figcaption>
             </figure>
           </div>
 
-          <!--div class="col-md-3 col-12 float-left eje-box-outer grid" onclick="location.href='marcas_aprender.php';">
-            <figure class="eje-box-inner effect-apollo" id="boxsup-3">
-              <div class="icono-eje">
-                <span class="far fa-lightbulb"></span>
-                <div class="texto-eje h2">Aprender</div>
-              </div>
-              <figcaption>
-                <p>Este es el texto que describe el bloque Aprender.</p>
-                <a href="#">Vea más</a>
-              </figcaption>
-            </figure>
-          </div-->
-
-          <div class="col-md-3 col-12 float-left eje-box-outer grid" onclick="location.href='areas.php';">
-            <figure class="eje-box-inner effect-apollo" id="boxsup-1">
+          <div class="col-md-4 col-12 float-left eje-box-outer grid">
+            <figure class="eje-box-inner effect-apollo tarjeta_fondo" id="boxsup-1">
               <div class="icono-eje">
                 <span class="fas fa-user-friends"></span>
-                <div class="texto-eje h2">Áreas de <br>Observancia</div>
+                <div class="texto-eje h2">Áreas de Observancia</div>
               </div>
               <figcaption>
                 <p>
@@ -152,23 +149,36 @@
             </figure>
           </div>
 
-          <div class="col-md-3 col-12 float-left eje-box-outer grid" onclick="location.href='denunciar.php';">
-            <figure class="eje-box-inner effect-apollo" id="boxsup-4">
+          <!--div class="col-md-3 col-12 float-left eje-box-outer grid" onclick="location.href='https://servicios.dinapi.gov.py/';">
+            <figure class="eje-box-inner effect-apollo tarjeta_fondo" id="boxsup-4">
+              <div class="icono-eje">
+                <span class="fas fa-user-friends"></span>
+                <div class="texto-eje h2"></div>
+              </div>
+              <figcaption>
+                <p>
+                </p>
+                <a href="folklore.php">Vea más</a>
+              </figcaption>
+            </figure>
+          </div-->
+
+          <div class="col-md-4 col-12 float-left eje-box-outer grid">
+            <figure class="eje-box-inner effect-apollo tarjeta_fondo" id="boxsup-2">
               <div class="icono-eje">
                 <span class="fas fa-user-friends"></span>
                 <div class="texto-eje h2">Denunciar</div>
               </div>
               <figcaption>
                 <p>
-
                 </p>
                 <a href="denunciar.php">Vea más</a>
               </figcaption>
             </figure>
           </div>
+
+
         </div>
-
-
 
         <div class="col-md-1 float-left">
           <!--Navegacion-->
@@ -177,70 +187,21 @@
 
       <!-- Novedades -->
       <div
-        class="col-md-12 clear-section float-left clear-section pb-5 "
+        class="col-md-12 clear-section float-left clear-section pb-5"
         id="noticias"
         v-bind:style=" heightsDivs[3] "
       >
-        <div class="col-lg-12 titulo-enlace row">
-          <h1 class="text-left">
-            INFORMACIÓN RELEVANTE
-          </h1>
-        </div>
+
 
         <div class="clearfix"></div>
-        <!--div class="row">
-          <div class="articulos-secondary col-md-3 col-sm-12">
-            <div class="articulos-secondary-content">
-              <div class="articulos-tag">Artículo</div>
-              <div class="articulos-title">
-                CLASIFICACION NIZA
-              </div>
-              <div class="articulos-descripcion">
-                Conoce la lista de clases que se aplica a nivel internacional
-                para el registro de marcas.
-              </div>
-            </div>
-          </div>
-          <div class="articulos-secondary col-md-3 col-sm-12">
-            <div class="articulos-secondary-content">
-              <div class="articulos-tag">Herramientas</div>
-              <div class="articulos-title">
-                BUSCADOR DE MARCAS
-              </div>
-              <div class="articulos-descripcion">
-                En bases de datos nacionales e internacionales
-              </div>
-            </div>
-          </div>
-          <div class="articulos-secondary col-md-3 col-sm-12">
-            <div class="articulos-secondary-content">
-              <div class="articulos-tag">Artículo</div>
-              <div class="articulos-title">
-                TRANSFERENCIA DE MARCAS
-              </div>
-              <div class="articulos-descripcion">
-                Observe como se transfiere los derechos de una marca.
-              </div>
-            </div>
-          </div>
-          <div class="articulos-secondary col-md-3 col-sm-12">
-            <div class="articulos-secondary-content">
-              <div class="articulos-tag">Artículo</div>
-              <div class="articulos-title">
-                CLASIFICACION NIZA
-              </div>
-              <div class="articulos-descripcion">
-                Conoce la lista de clases que se aplica a nivel internacional
-                para el registro de marcas.
-              </div>
-            </div>
-          </div>
-        </div-->
+        <div class="row">
+
+        </div>
       </div>
       <!-- Fin Novedades -->
 
       <div
-        class="col-md-10 float-left clear-section pt-5 pb-15 offset-md-1"
+        class="col-md-10 float-left clear-section pt-5 pb-5 offset-md-1"
         id="footer"
         v-bind:style=" heightsDivs[3] "
       >

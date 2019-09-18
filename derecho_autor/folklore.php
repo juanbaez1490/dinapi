@@ -111,11 +111,11 @@
       >
         <div class="clearfix"></div>
         <div class="col-md-12 bread">
-          <div><a href="#">Inicio</a> / <a href="index.php">Derechos de Autor</a> / Promoción del Folklore </div>
+          <div><a href="#">Inicio</a> / <a href="index.php">Derechos de Autor y Derechos Conexos</a> / Promoción del Folklore </div>
         </div>
         <div class="row">
           <div class="col-md-3 sidebar-links mt-5">
-            <h1>Derechos de Autor</h1>
+            <h1>Derechos de Autor y Derechos Conexos</h1>
             <div class="lista">
               <!--ul>
                 <li class="li-principal">BUSCAR E INVESTIGAR</li>
@@ -125,6 +125,54 @@
             </div>
           </div>
           <div class="col-md-8 mt-5 information-texto">
+            
+
+
+            <h2 class="inicial">
+              Industrias Creativas 
+            </h2>
+
+            <p>
+              La DINAPI a través de la DIRECCIÓN DE PROMOCIÓN DE INDUSTRIAS CREATIVAS Y FOLKLORE busca fomentar las Industrias Creativas y Folklore Nacional; desarrollando, promocionando, incentivando y protegiendo estas Industrias como fuentes generadoras de empleos, ingresos y desarrollo económico. Que son a su vez afianzador de la identidad cultural nacional a través del capital intelectual y el ingenio; para el combate inteligente a la pobreza a través de la Propiedad Intelectual.
+            </p>
+            <p>  
+              Siendo las Industrias Creativas uno de los principales ejes de planificación estratégica que define las actividades dentro de la DINAPI.
+            </p>
+            
+            <h4>Industrias Creativas mas influyentes en el Paraguay</h4>
+
+            <ol>
+              <li>
+                Video Juegos (Software)
+              </li>
+              <li>
+                Música
+              </li>
+              <li> 
+                Artesanía
+              </li>
+              <li>
+                Audiovisual
+              </li>
+              <li>
+                Radio
+              </li>
+              <li>
+                Televisión
+              </li>
+              <li>
+                Editorial
+              </li>
+              <li>
+                Turismo
+              </li>
+              <li>
+                Moda y Diseño
+              </li>
+            </ol>
+            
+            <hr />
+
             
             <h2 class="inicial">
               Promoción del Folklore
@@ -139,6 +187,8 @@ En ese sentido Dirección General de Derecho de Autor y Derechos Conexos realiza
             </p>
            
             <hr />
+
+
 
 
           </div>

@@ -148,14 +148,14 @@
 
           <div class="col-md-4 col-12 float-left eje-box-outer">
             <div class="eje-box-inner tarjeta_fondo" id="boxsup-2">
-              <div class="row m-3">
+              <div class="row mt-3 mb-3 ml-1 mr-1">
                 <div class="col-md-3">
-                  <img src="img/ico_prueba.png" class="img-fluid">
+                  <img src="img/icon_pi.png" class="img-fluid">
                 </div>
                 <div class="col-md-9 row" style="padding-right: 0px;">
                   <div class="subitem-eje-portada h5 punterolink" onclick="location.href='propiedad_industrial/marcas/index.php';">Marcas</div>
                   <div class="subitem-eje-portada h5 punterolink" onclick="location.href='propiedad_industrial/patentes/index.php';">Patentes</div>
-                  <div class="subitem-eje-portada h5 punterolink" onclick="location.href='propiedad_industrial/dibujos/index.php';">Diseños Industriales</div>
+                  <div class="subitem-eje-portada h5 punterolink" onclick="location.href='propiedad_industrial/dibujos/index.php';">Dibujos y Modelos Industriales</div>
                   <div class="subitem-eje-portada h5 punterolink" onclick="location.href='propiedad_industrial/igydo/index.php';">IG/DO</div>
                   <div class="subitem-eje-portada h5">Gestiones Administrativas</div>
                 </div>
@@ -169,17 +169,20 @@
           <div class="col-md-4 col-12 float-left eje-box-outer">
             <div class="eje-box-inner tarjeta_fondo" id="boxsup-1">
           
-              <div class="row m-3">
+              <div class="row mt-3 mb-3 ml-1 mr-1">
                 <div class="col-md-3">
-                  <img src="img/ico_prueba.png" class="img-fluid">
+                  <img src="img/icon_autor.png" class="img-fluid">
                 </div>
                 <div class="col-md-9 row" style="padding-right: 0px;">
-                  <div class="subitem-eje-portada h5 punterolink" onclick="location.href='';">Derechos de Autor</div>
-                  <div class="subitem-eje-portada h5 punterolink" onclick="location.href='';">Derechos Conexos</div>
-                  <div class="subitem-eje-portada h5 punterolink" onclick="location.href='';">Sociedades de Gestión Colectiva</div>
+                  <div class="subitem-eje-portada h5 punterolink" onclick="location.href='';">
+                    Registro de Derechos de Autor y Derechos Conexos
+                  </div>
                   <div class="subitem-eje-portada h5 punterolink" onclick="location.href='';">Industrias Creativas y Folklore</div>
-                  
+                  <div class="subitem-eje-portada h5 punterolink" onclick="location.href='';">Sociedades de Gestión Colectiva</div>
+ 
                 </div>
+
+
               </div>
               
             </div>
@@ -188,15 +191,16 @@
           <div class="col-md-4 col-12 float-left eje-box-outer">
             <div class="eje-box-inner tarjeta_fondo" id="boxsup-3">
           
-              <div class="row m-3">
+              <div class="row mt-3 mb-3 ml-1 mr-1">
                 <div class="col-md-3">
-                  <img src="img/ico_prueba.png" class="img-fluid">
+                  <img src="img/icon_observancia.png" class="img-fluid">
                 </div>
+                
+
                 <div class="col-md-9 row" style="padding-right: 0px;">
-                  <div class="subitem-eje-portada h5 punterolink" onclick="location.href='';">Derechos de Autor</div>
-                  <div class="subitem-eje-portada h5 punterolink" onclick="location.href='';">Derechos Conexos</div>
-                  <div class="subitem-eje-portada h5 punterolink" onclick="location.href='';">Sociedades de Gestión Colectiva</div>
-                  <div class="subitem-eje-portada h5 punterolink" onclick="location.href='';">Industrias Creativas y Folklore</div>
+                  <div class="subitem-eje-portada h5 punterolink" onclick="location.href='';">Información relevante</div>
+                  <div class="subitem-eje-portada h5 punterolink" onclick="location.href='';">Áreas de Observancia</div>
+                  <div class="subitem-eje-portada h5 punterolink" onclick="location.href='';">Denuncias</div>
                   
                 </div>
               </div>
@@ -258,34 +262,10 @@
       </div-->
       <!-- Fin Mas Enlaces -->
 
-      <div
-        class="col-md-10 float-left clear-section pt-5 pb-5 offset-md-1"
-        id="footer"
-        v-bind:style=" heightsDivs[3] "
-      >
-        <div class="row">
-          <div class="titulo-footer col-md-12">
-            <h1>
-              DIRECCION NACIONAL DE PROPIEDAD INTELECTUAL
-            </h1>
-          </div>
-          <div class="texto-footer center-block col-md-12">
-            <p>España 323 casi Estados Unidos</p>
-            <p>Tel:+59521210977</p>
-            <p>República del Paraguay</p>
-          </div>
-          <div class="col-md-12">
-            <div class="iconos-footer">
-              <i class="fa fa-facebook-square"></i>
-              <i class="fa fa-twitter"></i>
-              <i class="fa fa-instagram"></i>
-              <!--i class="fa fa-pinterest"></i>
-              <i class="fa fa-youtube"></i>
-              <i class="fa fa-tumblr"></i-->
-            </div>
-          </div>
-        </div>
-      </div>
+      <?php 
+        include("footer.php");
+      ?>
+      
     </div>
   </body>
 </html>

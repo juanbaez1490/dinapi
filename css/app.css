@@ -14676,7 +14676,7 @@ figure.effect-apollo:hover p {
   display: block;
   min-height: 100%;
   max-width: 100%;
-  opacity: 0.4; }
+  opacity: 1; }
 
 .grid figure figcaption {
   font-size: 1.05rem;
@@ -14884,6 +14884,10 @@ a.menu_lateral:hover{
   background-image: url("../img/marcas2.jpg");
 }
 
+.head_noticias{
+  background-image: url("../img/news.jpg");
+}
+
 .head_contacto{
   background-image: url("../img/contacto.jpg");
 }
@@ -15035,4 +15039,22 @@ form {
 
 label {
   color: black;
+}
+
+
+/**NOTICIAS**/
+h4.noticias-titulo {
+  margin-top: 0px;
+}
+
+p.noticias-epigrafe {
+  margin-top: 10px;
+}
+
+.noticias-titulo a {
+  color: #00a89b;
+}
+
+.noticias-parrafos {
+  color: gray;
 }

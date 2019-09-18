@@ -104,14 +104,14 @@
       >
         <div class="clearfix"></div>
         <div class="col-md-12 bread">
-          <div><a href="#">Inicio</a> / <a href="index.php">Observancia</a> / Conocer</div>
+          <div><a href="#">Inicio</a> / <a href="index.php">Observancia</a> / INFORMACIÓN RELEVANTE</div>
         </div>
         <div class="row">
           <div class="col-md-3 sidebar-links mt-5">
             <h1>Observancia</h1>
             <div class="lista">
               <ul>
-                <li class="li-principal">CONOCER</li>
+                <li class="li-principal">INFORMACIÓN RELEVANTE</li>
                 <li class="li-principal"><a href="areas.php" class="menu_lateral">ÁREAS DE OBSERVANCIA</a></li>
                 <li class="li-principal"><a href="denunciar.php" class="menu_lateral">DENUNCIAR</a></li>
               </ul>
@@ -120,46 +120,39 @@
           <div class="col-md-8 mt-5 information-texto">
 
 
-            <h2 class="inicial">DIRECCIÓN GENERAL DE OBSERVANCIA:</h2>
-            <p>
-              La Dirección General de Observancia es la encargada de la promoción,
-prevención y defensa de los derechos de propiedad intelectual dentro de la
-DINAPI. La misma deberá promover actividades preventivas e investigativas
-en todo el territorio paraguayo.
-            </p>
-
-            <h2>¿QUÉ ES LA OBSERVANCIA?</h2>
-            <p>
-              Se trata del cumplimiento rígido de alguna orden o norma la observancia de
-las Leyes.
-            </p>
-            <p>
-              La Ley 4798/13 que crea la DINAPI en su Art. 13 inciso C, lo faculta a realizar
-intervenciones administrativas en las aduanas de todo el país, en los
-comercios, depósitos y otros locales públicos o privados de acceso público,
-para evitar todo tipo violación de los Derechos de Propiedad Intelectual.
-            </p>
-            <h2>
-              ¿QUÉ ES LA PROMOCIÓN?
-            </h2>
-            <p>
-              Es el conjunto de actividades, técnicas y métodos que se utilizan para lograr
-objetivos específicos, como informar, persuadir o recordar al público
-objetivo, acerca de los productos, servicios, ideas, o planes de gobiernos que
-se presenten.
-            </p>
-            <h2>
-              ¿QUÉ ES LA PREVENCIÓN?
-            </h2>
-            <p>
-              Es la acción y efecto de prevenir (preparar con antelación lo necesario para
-un fin, anticiparse a una dificultad, prever un daño. El objetivo de prevenir es
-lograr que un perjuicio eventual no se concrete.
-            </p>
-
-
+            <h2 class="inicial">DIRECCION GENERAL DE OBSERVANCIA</h2>
             
-            
+            <p>
+              Es una de las Direcciones Generales de la DINAPI, cuya misión principal es la de velar por el cumplimiento efectivo de las normas especiales de Propiedad Intelectual, tendientes a asegurar el ejercicio de los derechos por sus titulares. 
+            </p>
+            <p>
+              Dicha tarea se lleva a cabo mediante la implementación de programas de promoción, prevención y sensibilización acerca de la importancia del respeto a la Propiedad Intelectual, así como de la investigación, como órgano coadyuvante de los organismos estatales encargados de la persecución de los hechos punibles perpetrados contra dichos derechos y sus titulares. 
+            </p>
+
+            <h4>
+              PROMOCIÓN DE LA PROPIEDAD INTELECTUAL
+            </h4>
+            <p>
+              La DGO, a través de sus programas de promoción, busca poner al alcance de distintos sectores de la sociedad los conceptos o elementos integrantes de las figuras de P.I., facilitar la compresión sobre los procedimientos de registros, además de asumir la tarea de transmitir la problemática que conlleva la violación a la PI desde sus distintos aspectos, sociales, económicos y culturales, a fin de hacerlos comprensivos desde un enfoque vivencial y significativo.
+            </p>
+
+            <h4>
+              PREVENCIÓN 
+            </h4>
+            <p>
+              Otro de los objetivos de la DGO es la de prevenir la comisión de hechos punibles y de faltas que atenten contra el libre ejercicio de los derechos de la PI, llevando a cabo actividades investigativas tendientes a impedir la reproducción comercial de obras protegidas por derecho de autor sin autorización del titular o piratería, así también evitar la comercialización de productos falsificados relacionados a marcas u otros signos distintivos que induzcan al error o confusión al público consumidor, así como otras acciones contempladas en leyes especiales que rigen la materia.
+            </p>
+            <p>
+              Con ello la DGO busca, no solo proporcionar herramientas efectivas para la protección de los derechos de sus titulares, sino además, busca proteger al consumidor y al ciudadano en general de su exposición a productos espureos con las consecuencias que ello acarrea.
+            </p>
+
+            <h4>
+              INVESTIGACIÓN 
+            </h4>
+            <p>
+              Desde su misión investigativa, lleva a cabo de oficio y a instancia de parte, la recolección de información y datos de manera a lograr la intervención de espacios públicos o  privados de acceso público, así mismo aplica en base a convenios interinstitucionales, medidas en frontera para el control de mercaderías que ingresan al País, cooperando de este modo con los órganos estatales encargados de  la represión de Hechos Punibles contra la PI.
+            </p>
+
             <hr />
 
 

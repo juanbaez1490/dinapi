@@ -111,11 +111,11 @@
       >
         <div class="clearfix"></div>
         <div class="col-md-12 bread">
-          <div><a href="#">Inicio</a> / <a href="index.php">Derechos de Autor</a> / Industrias Creativas </div>
+          <div><a href="#">Inicio</a> / <a href="index.php">Derechos de Autor y Derechos Conexos</a> / Industrias Creativas </div>
         </div>
         <div class="row">
           <div class="col-md-3 sidebar-links mt-5">
-            <h1>Derechos de Autor</h1>
+            <h1>Derechos de Autor y Derechos Conexos</h1>
             <div class="lista">
               <!--ul>
                 <li class="li-principal">BUSCAR E INVESTIGAR</li>

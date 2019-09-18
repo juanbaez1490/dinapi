@@ -131,7 +131,7 @@
                 <p>
                   
                 </p>
-                <a href="#">Vea más</a>
+                <a href="institucional/plan_nacional_2030.pdf.pdf">Vea más</a>
               </figcaption>
             </figure>
           </div>
@@ -156,7 +156,8 @@
             <figure class="eje-box-inner effect-apollo" id="boxsup-4">
               <div class="icono-eje mt-5 pl-2 pr-2">
                 <!--span class="fas fa-user-friends"></span-->
-                <div class="texto-eje h2">Modelo Estándar de Control Interno para Instituciones del Esta
+                <div class="texto-eje h2">
+                  MECIP
                 </div>
               </div>
               <figcaption>
@@ -272,7 +273,7 @@
                 <p>
                   
                 </p>
-                <a href="#">Vea más</a>
+                <a href="institucional/Proyecto_de_Ley.pdf">Vea más</a>
               </figcaption>
             </figure>
           </div>
@@ -286,7 +287,7 @@
             <figure class="eje-box-inner effect-apollo verde-agua">
               <div class="icono-eje mt-5 pl-2 pr-2">
                 <!--span class="fas fa-file-signature"></span-->
-                <div class="texto-eje h2">Acceso a la información pública
+                <div class="texto-eje h2">Acceso a la Información Pública
                 </div>
               </div>
               <figcaption>
@@ -302,14 +303,15 @@
             <figure class="eje-box-inner effect-apollo celeste-agua">
               <div class="icono-eje mt-5 pl-2 pr-2">
                 <!--span class="fas fa-file-signature"></span-->
-                <div class="texto-eje h2">MECIP
+                <div class="texto-eje h2">
+                  Webmail
                 </div>
               </div>
               <figcaption>
                 <p>
                   
                 </p>
-                <a href="mecip.php">Vea más</a>
+                <a href="https://sts.dinapi.gov.py/adfs/ls/?client-request-id=40a975a2-525f-47e5-9e0a-ca12d21db238&username=&wa=wsignin1.0&wtrealm=urn%3afederation%3aMicrosoftOnline&wctx=estsredirect%3d2%26estsrequest%3drQIIAY2RO2_TUACFc-PUagOIqurAUtGBCena19eJr22JigTn1SaliWhIvESxY8dO6lzHj7QJv4CtQkwdGLoRiaULiD-AlKli7I6EGBBiYiQRCxt8w9EZj77zkBE4QX2A_oDhKiGybQGa1qr9RbCV3ryM3z7uNL6U3qQXW593ruQLcKfnjrq-y_XphPOnc3DfiSI_VHmextEJpUOO2rZrWpxJPZ6edvkPAFwDME8SSZQkhAmSFElEMhGIwiFZIQQrBBpkOSVjIAXKSteCXVO0UAZh2cTGTfLu01wcOXgVNHBn1s_khk0Dr-PTMLpgXgPNjPJaWOkXCvkGqsaZWi_XKFFdP6wKmjHT6q5-QI36oGmVI31S7ZDn7olAhlLPcaTiadvMaW6xLue1M8erO4VxZXCYG-W9Z4W8d9wPnaDWKtXKRbJfjYnYak8Gs1rTHmS9yJhmA7ENO90zCDtPGmIYhn57HB_jqDyplOfMfym-YtilJ4-OFgxLfWvk9q5T4FvqNmLU9XV2E9xL7CZ-pcDl2vKKV7e47y8_vau9f6Hs2XozsVjjcatoj8kUlS2-Ze_H_vCoj4qmcRCGQTgYHuUKEu-4bbGiD8NHkiqcs-CcZb-y4Aeb-Ljxr-Nu0tsYCTJEGYizu4KkioKawfpv0">Vea más</a>
               </figcaption>
             </figure>
           </div>
@@ -347,34 +349,11 @@
       </div>
       <!-- Fin Novedades -->
 
-      <div
-        class="col-md-10 float-left clear-section pt-5 pb-15 offset-md-1"
-        id="footer"
-        v-bind:style=" heightsDivs[3] "
-      >
-        <div class="row">
-          <div class="titulo-footer col-md-12">
-            <h1>
-              DIRECCION NACIONAL DE PROPIEDAD INTELECTUAL
-            </h1>
-          </div>
-          <div class="texto-footer center-block col-md-12">
-            <p>España 323 casi Estados Unidos</p>
-            <p>Tel:+59521210977</p>
-            <p>República del Paraguay</p>
-          </div>
-          <div class="col-md-12">
-            <div class="iconos-footer">
-              <i class="fa fa-facebook-square"></i>
-              <i class="fa fa-twitter"></i>
-              <i class="fa fa-instagram"></i>
-              <i class="fa fa-pinterest"></i>
-              <i class="fa fa-youtube"></i>
-              <i class="fa fa-tumblr"></i>
-            </div>
-          </div>
-        </div>
-      </div>
+      <?php 
+        include("footer.php");
+      ?>
+
+      
     </div>
   </body>
 </html>

@@ -138,7 +138,9 @@
           <div class="col-sm float-left eje-box-outer grid" onclick="location.href='probono.php';">
             <figure class="eje-box-inner effect-apollo tarjeta_fondo" id="boxsup-3">
               <div class="icono-eje">
-                <span class="far fa-lightbulb"></span>
+                <div class="col-md-6 offset-md-3 mb-3 mt-4">
+                  <img src="<?php echo $URL_Base; ?>img/icon_probono.png" class="img-fluid">  
+                </div>
                 <div class="texto-eje h2">Agentes de Propiedad Industrial PRO-BONO</div>
               </div>
               <figcaption>
@@ -152,7 +154,9 @@
           <div class="col-sm float-left eje-box-outer grid" onclick="location.href='registro_poderes.php';">
             <figure class="eje-box-inner effect-apollo tarjeta_fondo" id="boxsup-1">
               <div class="icono-eje">
-                <span class="fas fa-user-friends"></span>
+                <div class="col-md-6 offset-md-3 mb-3 mt-4">
+                  <img src="<?php echo $URL_Base; ?>img/icon_registropoder.png" class="img-fluid">  
+                </div>
                 <div class="texto-eje h2">Registro de Poderes</div>
               </div>
               <figcaption>
@@ -167,7 +171,9 @@
           <div class="col-sm float-left eje-box-outer grid" onclick="location.href='actos.php';">
             <figure class="eje-box-inner effect-apollo tarjeta_fondo" id="boxsup-4">
               <div class="icono-eje">
-                <span class="fas fa-user-friends"></span>
+                <div class="col-md-6 offset-md-3 mb-3 mt-4">
+                  <img src="<?php echo $URL_Base; ?>img/icon_actosjuridicos.png" class="img-fluid">  
+                </div>
                 <div class="texto-eje h2">Actos Jurídicos</div>
               </div>
               <figcaption>
@@ -182,7 +188,9 @@
           <div class="col-sm float-left eje-box-outer grid" onclick="location.href='circulares.php';">
             <figure class="eje-box-inner effect-apollo tarjeta_fondo" id="boxsup-2">
               <div class="icono-eje">
-                <span class="fas fa-user-friends"></span>
+                <div class="col-md-6 offset-md-3 mb-3 mt-4">
+                  <img src="<?php echo $URL_Base; ?>img/icon_circulares.png" class="img-fluid">  
+                </div>
                 <div class="texto-eje h2">Circulares y Decisiones Administrativas</div>
               </div>
               <figcaption>

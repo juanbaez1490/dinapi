@@ -126,7 +126,7 @@
             </p>
 
             <p>
-              Mas info en el link XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX o acércate a la oficina de la Dirección General de Propiedad Industrial!
+              Para más información, acercate a la oficina de la DINAPI.
             </p>
 
             <button type="button" class="btn btn-info" onclick=" window.open('documentos/resolucion-agentes-probono.pdf','_blank')">Resolución Agentes Pro-Bono

@@ -51,7 +51,6 @@
                                         <option value=""></option>
                                         <option value="Consulta">Consulta</option>
                                         <option value="Denuncia sobre corrupción">Denuncia sobre corrupción</option>
-                                        <option value="Violación a ley de marcas">Violación a ley de marcas</option>
                                         <option value="No Definido">Otro tema</option>
                                     </select>
                                     <div class="help-block with-errors"></div>

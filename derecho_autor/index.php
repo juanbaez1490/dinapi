@@ -105,7 +105,7 @@
         <div class="header-secondary-image"></div>
         <div class="titulo-pagina-principal ml-5 mt-2 pl-2 pr-5 col-md-4">
           <div class="font-weight-bold">
-            Derecho de Autor
+            Derechos de Autor y Derechos Conexos
           </div>
         </div>
 
@@ -118,11 +118,11 @@
         <div class="row">
 
 
-          <div class="col-md-3 col-12 float-left eje-box-outer grid" onclick="location.href='marcas_aprender.php';">
+          <div class="col-md-4 col-12 float-left eje-box-outer grid" onclick="location.href='marcas_aprender.php';">
             <figure class="eje-box-inner effect-apollo tarjeta_fondo" id="boxsup-3">
               <div class="icono-eje">
                 <span class="far fa-lightbulb"></span>
-                <div class="texto-eje h2">Registro</div>
+                <div class="texto-eje h2">Registro de Derechos de Autor y Derechos Conexos</div>
               </div>
               <figcaption>
                 <p>
@@ -132,26 +132,26 @@
             </figure>
           </div>
 
-          <div class="col-md-3 col-12 float-left eje-box-outer grid" onclick="location.href='marcas_registrar.php';">
+          <div class="col-md-4 col-12 float-left eje-box-outer grid" onclick="location.href='marcas_registrar.php';">
             <figure class="eje-box-inner effect-apollo tarjeta_fondo" id="boxsup-1">
               <div class="icono-eje">
                 <span class="fas fa-user-friends"></span>
-                <div class="texto-eje h2">Industrias Creativas </div>
+                <div class="texto-eje h2">Industrias Creativas y Promoción del Folklore</div>
               </div>
               <figcaption>
                 <p>
                   
                 </p>
-                <a href="industrias.php">Vea más</a>
+                <a href="folklore.php">Vea más</a>
               </figcaption>
             </figure>
           </div>
 
-          <div class="col-md-3 col-12 float-left eje-box-outer grid" onclick="location.href='https://servicios.dinapi.gov.py/';">
+          <!--div class="col-md-3 col-12 float-left eje-box-outer grid" onclick="location.href='https://servicios.dinapi.gov.py/';">
             <figure class="eje-box-inner effect-apollo tarjeta_fondo" id="boxsup-4">
               <div class="icono-eje">
                 <span class="fas fa-user-friends"></span>
-                <div class="texto-eje h2">Promoción del Folklore</div>
+                <div class="texto-eje h2"></div>
               </div>
               <figcaption>
                 <p>
@@ -159,9 +159,9 @@
                 <a href="folklore.php">Vea más</a>
               </figcaption>
             </figure>
-          </div>
+          </div-->
 
-          <div class="col-md-3 col-12 float-left eje-box-outer grid" onclick="location.href='https://servicios.dinapi.gov.py/';">
+          <div class="col-md-4 col-12 float-left eje-box-outer grid" onclick="location.href='https://servicios.dinapi.gov.py/';">
             <figure class="eje-box-inner effect-apollo tarjeta_fondo" id="boxsup-2">
               <div class="icono-eje">
                 <span class="fas fa-user-friends"></span>

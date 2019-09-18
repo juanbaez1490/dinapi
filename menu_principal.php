@@ -20,12 +20,23 @@
                     >Inicio <span class="sr-only">(current)</span></a
                   >
                 </li>
-                <li class="nav-item dropdown">
+                <li class="nav-item">
+                  <a class="nav-link" href="<?php echo $URL_Base; ?>institucional.php">
+                    Institucional
+                  </a>
+                </li>
+                <!--li class="nav-item dropdown">
+                
                   <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                     Institucional
                   </a>
                   <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                    <a class="dropdown-item" href="https://www.dinapi.gov.py/application/files/5715/5976/2149/PLAN_ESTRATEGICO_INSTITUCIONAL.pdf">Plan Estratégico Institucional</a>
+                    <a class="dropdown-item" href="https://www.dinapi.gov.py/application/files/5715/5976/2149/PLAN_ESTRATEGICO_INSTITUCIONAL.pdf">
+                      Información Institucional
+                    </a>
+                    <a class="dropdown-item" href="https://www.dinapi.gov.py/application/files/5715/5976/2149/PLAN_ESTRATEGICO_INSTITUCIONAL.pdf">
+                      Plan Estratégico Institucional
+                    </a>
                     <a class="dropdown-item" href="https://www.dinapi.gov.py/index.php/download_file/force/5202/1416">Código de Ética DINAPI</a>
 
                     
@@ -36,10 +47,10 @@
                     <a class="dropdown-item" href="https://www.dinapi.gov.py/index.php/download_file/view/3361/869">Manual de Funciones</a>
                     
                   </div>
-                </li>
+                </li-->
                 <li class="nav-item">
                   <a class="nav-link" href="<?php echo $URL_Base; ?>derecho_autor/index.php">
-                    Derecho de Autor
+                    Derechos de Autor
                   </a>
                 </li>
                 <li class="nav-item dropdown">
@@ -49,13 +60,21 @@
                   <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
                     <a class="dropdown-item" href="<?php echo $URL_Base; ?>propiedad_industrial/marcas/index.php">Marcas</a>
                     <a class="dropdown-item" href="<?php echo $URL_Base; ?>propiedad_industrial/patentes/index.php">Patentes</a>
-                    <a class="dropdown-item" href="<?php echo $URL_Base; ?>propiedad_industrial/dibujos/index.php">Diseños Industriales</a>
+                    <a class="dropdown-item" href="<?php echo $URL_Base; ?>propiedad_industrial/dibujos/index.php">Dibujos y Modelos Industriales</a>
                     <a class="dropdown-item" href="<?php echo $URL_Base; ?>propiedad_industrial/igydo/index.php">IG&DO</a>
                     <a class="dropdown-item" href="<?php echo $URL_Base; ?>propiedad_industrial/gestiones/index.php">Gestiones Administrativas</a>
+                    <a class="dropdown-item" href="https://servicios.dinapi.gov.py/resoluciones/">
+                      Resoluciones de la DGPI
+                    </a>
                   </div>
                 </li>
                 <li class="nav-item">
                   <a class="nav-link" href="<?php echo $URL_Base; ?>observancia/index.php">Observancia</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="<?php echo $URL_Base; ?>centro_noticias.php">
+                    Centro de Noticias
+                  </a>
                 </li>
                 <li class="nav-item">
                   <a class="nav-link" href="<?php echo $URL_Base; ?>contacto.php">

@@ -123,25 +123,12 @@
             <h2 class="inicial">¿CÓMO REALIZAR UNA DENUNCIA?</h2>
 
             <p>
-              Actualmente la Dirección General de Observancia (DGO) recepciona
-denuncias sobre cualquier hecho que viole los Derechos de Propiedad
-Intelectual en sus oficinas, la cual es diligenciada por la Dirección de Lucha
-contra la Piratería y Falsificación dependiente de la DGO.
+              La Dirección General de Observancia (DGO) recepciona en sus oficinas denuncias sobre supuestas infracciones a los Derechos de Propiedad Intelectual, la cual es diligenciada por la Dirección de Lucha contra la Piratería y Falsificación dependiente de la DGO. 
             </p>
-
-            <h4>FORMULARIOS</h4>
-
             <p>
-              La Unidad de Registro de importaciones dependiente de la Dirección General
-de Observancia (DGO), cuenta con formularios para la inscripción del registro
-de importadores, así como los requisitos establecidos para dicho acto en la
-página web de la DINAPI.
+              Actualmente, la denuncia puede ser realizada en forma verbal o escrita, ante la DGO, a través de su secretaría, ubicada en el primer piso de la DINAPI, sito en España N° 323 c/ EEUU. 
             </p>
 
-            <p>
-              La DGO no cuenta con un formulario de denuncias, como tampoco una
-plataforma donde realizar denuncias en la página web de la DINAPI.
-            </p>
                         
             
             <hr />
